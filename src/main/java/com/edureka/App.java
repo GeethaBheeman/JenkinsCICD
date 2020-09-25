@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello webhook public ip and World!" );
+        System.out.println( "test on 25!" );
     }
 }
